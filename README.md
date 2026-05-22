@@ -57,10 +57,12 @@
 
 ## ⚡ Mindset
 > 🔥 **“Try Harder. If it’s secure today, it’s outdated tomorrow.”**
+> 
 > 💻 **Code to build, hack to understand, AI to accelerate.**
 
 ---
 
 ## 🤖 In The AI Era
 > 🧠 **“AI won't write the flawless code, nor will it build the perfect defense—that demands human logic.”**
+> 
 > ⚡ **Leveraging intelligent systems to architect cleaner code and unbreakable logic.**
