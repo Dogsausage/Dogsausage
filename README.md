@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Dogsausage;💻+Computer+Science+Student;🛡️+Cyber+Security+Enthusiast+%7C+🎮+CTF+Player;🤖+AI+Workflow+Integrator+%7C+⚡+Developer;🚀+Hacking+the+Future" />
 </p>
 
-<h3 align="center">⚡ Scan • Exploit • Patch • Repeat ⚡</h3>
+<h3 align="center">⚡ Scan・Exploit・Patch・Repeat ⚡</h3>
 
 ---
 
@@ -16,10 +16,10 @@
 ---
 
 ## 📡 Status
-- 🔍 **Current Focus:** Computer Science fundamentals & practical web penetration testing
-- 🎮 **CTF Activity:** Competing in regional CTFs to sharpen real-world offensive skills
-- 🛠️ **Upcoming Projects:** Building a cybersecurity educational platform & web-based resource hub
-- 📚 **Learning:** Data Structures & Algorithms, Cryptography & Network Security Foundations
+- 🔍 **Current Focus : ** Computer Science fundamentals & practical web penetration testing
+- 🎮 **CTF Activity : ** Competing in regional CTFs to sharpen real-world offensive skills
+- 🛠️ **Upcoming Projects : ** Building a cybersecurity educational platform & web-based resource hub
+- 📚 **Learning : ** Data Structures & Algorithms, Cryptography & Network Security Foundations
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dogsausage&label=Profile%20Views&color=00F7FF&style=flat" />
