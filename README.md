@@ -16,10 +16,10 @@
 ---
 
 ## 📡 Status
-- 🔍 **Current Focus : ** Computer Science fundamentals & practical web penetration testing
-- 🎮 **CTF Activity : ** Competing in regional CTFs to sharpen real-world offensive skills
-- 🛠️ **Upcoming Projects : ** Building a cybersecurity educational platform & web-based resource hub
-- 📚 **Learning : ** Data Structures & Algorithms, Cryptography & Network Security Foundations
+- 🔍 **Current Focus :** Computer Science fundamentals & practical web penetration testing
+- 🎮 **CTF Activity :** Competing in regional CTFs to sharpen real-world offensive skills
+- 🛠️ **Upcoming Projects :** Building a cybersecurity educational platform & web-based resource hub
+- 📚 **Learning :** Data Structures & Algorithms, Cryptography & Network Security Foundations
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dogsausage&label=Profile%20Views&color=00F7FF&style=flat" />
@@ -49,7 +49,7 @@
 ---
 
 ## 🔑 Philosophy
-> 🧠 *“The quieter you become, the more you are able to hear.”*
+> 🧠 **“The quieter you become, the more you are able to hear.”**
 >
 > ⚔️ **Break the rules to understand them. Understand the defense by mastering the offense.**
 
@@ -57,13 +57,10 @@
 
 ## ⚡ Mindset
 > 🔥 **“Try Harder. If it’s secure today, it’s outdated tomorrow.”**
-> 
-> 💻 *Code to build, hack to understand, AI to accelerate.*
+> 💻 **Code to build, hack to understand, AI to accelerate.**
 
 ---
 
 ## 🤖 In The AI Era
 > 🧠 **“AI won't write the flawless code, nor will it build the perfect defense—that demands human logic.”**
->
-> ⚡ *Leveraging intelligent systems to architect cleaner code and unbreakable logic.*
-> 
+> ⚡ **Leveraging intelligent systems to architect cleaner code and unbreakable logic.**
