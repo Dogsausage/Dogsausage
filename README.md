@@ -36,10 +36,9 @@
 ## ☕ Support Me
 <p align="center">
   <a href="https://github.com/Dogsausage" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20My%20Journey-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Follow%20My%20Journey-FF007F?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
-
 ---
 
 ## ♟️ Core Philosophy & Mindset
