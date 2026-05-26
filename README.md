@@ -44,12 +44,12 @@
 
 ## ♟️ Core Philosophy & Mindset
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&color=FFFFFF&vCenter=true&width=950&height=110&lines=%F0%9F%91%81%EF%B8%8F+%E2%80%9CThe+quieter+you+become%2C+the+more+you+are+able+to+hear.%E2%80%9D;%F0%9F%9B%B8+Understand+the+defense+by+mastering+the+offense.;%F0%9F%94%A5+%E2%80%9CTry+Harder.+If+it%E2%80%99s+secure+today%2C+it%E2%80%99s+outdated+tomorrow.%E2%80%9D;%E2%9A%A1+Code+to+build%2C+hack+to+understand%2C+AI+to+accelerate." alt="Philosophy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&color=FFFFFF&vCenter=true&width=950&height=110&lines=The+quieter+you+become%2C+the+more+you+are+able+to+hear.;Understand+the+defense+by+mastering+the+offense.;Try+Harder.+If+it's+secure+today%2C+it's+outdated+tomorrow.;Code+to+build%2C+hack+to+understand%2C+AI+to+accelerate." alt="Philosophy" />
 </p>
 
 ---
 
 ## 🚀 In The AI Era
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=FFFFFF&vCenter=true&width=950&height=90&lines=%F0%9F%A7%A0+%E2%80%9CAI+won't+write+the+flawless+code%2C+nor+will+it+build+the+perfect+defense%E2%80%94that+demands+human+logic.%E2%80%9D;%F0%9F%A7%AC+Leveraging+intelligent+systems+to+architect+cleaner+code+and+unbreakable+logic." alt="AI Era" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=FFFFFF&vCenter=true&width=950&height=90&lines=AI+won't+write+flawless+code%2C+nor+will+it+build+the+perfect+defense%E2%80%94that+demands+human+logic.;Augmenting+human+intellect+to+build+unbreakable+logic." alt="AI Era" />
 </p>
