@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=850&height=50&lines=Hi+%F0%9F%91%8B+I'm+Dogsausage;%F0%9F%92%BB+Computer+Science+Student;%F0%9F%9B%A1%EF%B8%8F+Cyber+Security+Enthusiast+%7C+%F0%9F%8E%AE+CTF+Player;%F0%9F%A7%A0+AI+%26+Malware+Analysis;%F0%9F%9A%80+Hacking+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=850&height=50&lines=Hi+%F0%9F%91%8B+I'm+Dogsausage;%F0%9F%92%BB+Computer+Science+Student;%F0%9F%9B%A1%EF%B8%8F+Cyber+Security+Enthusiast+%7C+%F0%9F%8E%AE+CTF+Player;%F0%9F%A7%A0+AI+%26+Malware+Analysis;%F0%9F%9A%80+Hacking+the+Future" alt="Typing SVG" />
 </p>
 
 <h3 align="center">〖 📚 Learn ・ 🛡️ Cyber ・ 🧠 AI ・ 💻 Code 〗</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dogsausage&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Dogsausage&label=Profile%20Views&color=00FF00&style=flat-square" />
 </div>
 
 ---
@@ -37,7 +37,7 @@
 ## ☕ Support Me
 <p align="center">
   <a href="https://github.com/Dogsausage" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20My%20Journey-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Follow%20My%20Journey-00FF00?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 ## 🔑 Core Philosophy & Mindset
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&color=00F7FF&vCenter=true&width=950&height=110&lines=%F0%9F%91%81%EF%B8%8F+%E2%80%9CThe+quieter+you+become%2C+the+more+you+are+able+to+hear.%E2%80%9D;%F0%9F%9B%B8+Understand+the+defense+by+mastering+the+offense.;%F0%9F%94%A5+%E2%80%9CTry+Harder.+If+it%E2%80%99s+secure+today%2C+it%E2%80%99s+outdated+tomorrow.%E2%80%9D;%E2%9A%A1+Code+to+build%2C+hack+to+understand%2C+AI+to+accelerate." alt="Philosophy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&color=00FF00&vCenter=true&width=950&height=110&lines=%F0%9F%91%81%EF%B8%8F+%E2%80%9CThe+quieter+you+become%2C+the+more+you+are+able+to+hear.%E2%80%9D;%F0%9F%9B%B8+Understand+the+defense+by+mastering+the+offense.;%F0%9F%94%A5+%E2%80%9CTry+Harder.+If+it%E2%80%99s+secure+today%2C+it%E2%80%99s+outdated+tomorrow.%E2%80%9D;%E2%9A%A1+Code+to+build%2C+hack+to+understand%2C+AI+to+accelerate." alt="Philosophy" />
 </p>
 
 ---
