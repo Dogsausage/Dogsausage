@@ -37,7 +37,7 @@
 ## ☕ Support Me
 <p align="center">
   <a href="https://github.com/Dogsausage" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20My%20Journey-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Follow%20My%20Journey-0088cc?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
