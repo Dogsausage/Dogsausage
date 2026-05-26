@@ -50,7 +50,7 @@
 
 ---
 
-## 🦾 In The AI Era
+## 🚀 In The AI Era
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=FFFFFF&vCenter=true&width=950&height=90&lines=%F0%9F%A7%A0+%E2%80%9CAI+won't+write+the+flawless+code%2C+nor+will+it+build+the+perfect+defense%E2%80%94that+demands+human+logic.%E2%80%9D;%F0%9F%A7%AC+Leveraging+intelligent+systems+to+architect+cleaner+code+and+unbreakable+logic." alt="AI Era" />
 </p>
