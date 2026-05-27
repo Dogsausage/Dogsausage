@@ -7,7 +7,7 @@
 ---
 
 ## 🧾 About Me
-- 🏫 **CS Student @ Mahasarakham University**
+- 🎓 **CS Student @ Mahasarakham University**
 - 🎯 **Focus :** Offensive Security, Malware Analysis (Ransomware / File Infector) & Linux Administration (Kali)
 - 🤖 **Tech & AI :** Integrating AI for secure coding, code auditing & rapid workflow
 - 🚀 **Goal :** Master end-to-end cyber ops, hardware security & firmware auditing
